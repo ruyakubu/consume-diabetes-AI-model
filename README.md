@@ -1,6 +1,6 @@
 # consume-diabetes-AI-model
 
-This java project creates a client application to the the web service generated from deployed AI model in the **[diabete disease progression experiment.]**(http://github.com/ruyakubu/azure-ml-notebook-diabetes-training)
+This java project creates a client application to the the web service generated from deployed AI model in the **[Diabete disease progression experiment.](http://github.com/ruyakubu/azure-ml-notebook-diabetes-training)**
 
 To run this project:
 1. First run the *Diabete disease progression* Azure Machine Learning experience
