@@ -11,7 +11,7 @@ public class App
     // Handle making the request
     public static void sendRequest(String data) {
         // Replace with the scoring_uri of your service
-        String uri = "<enter the endpoint HTTP url for your deployed model here";
+        String uri = "<enter the endpoint url for your deployed model here";
     	
         // If using authentication, replace with the auth key or token
         //String key = "<your key or token>";
